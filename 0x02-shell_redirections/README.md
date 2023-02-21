@@ -1,2 +1,4 @@
-0x02 shell IO redirections and filters readme file
+#!/bin/bash
+echo "hello, world
+
 
