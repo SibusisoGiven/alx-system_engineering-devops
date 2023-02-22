@@ -1,4 +1,2 @@
-#!/bin/bash
-echo "hello, world
-
+# 0x02 shell, I/O  Redirection and filters
 
